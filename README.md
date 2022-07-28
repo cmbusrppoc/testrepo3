@@ -5,7 +5,6 @@ SRP source Provenance submission workflow triggers when any MR merged to master 
 
 FYI: Please update workflow with the required branch for which workflow is to be trigger .
 
-
 #### Steps include in the workflow ####
 
 1. Initialize a ubuntu github runner where workflow steps will run
